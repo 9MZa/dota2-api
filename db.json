@@ -1,0 +1,1603 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Abaddon",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Shields his allies or himself from attacks",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abaddon.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abaddon.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abaddon.webm",
+      "source_link": "https://www.dota2.com/hero/abaddon"
+    },
+    {
+      "id": 2,
+      "name": "Alchemist",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Earns extra gold from unit kills and bounty runes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/alchemist.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.webm",
+      "source_link": "https://www.dota2.com/hero/alchemist"
+    },
+    {
+      "id": 3,
+      "name": "Ancient Apparition",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Launches a powerful icy blast from anywhere on the map",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ancient_apparition.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ancient_apparition.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ancient_apparition.webm",
+      "source_link": "https://www.dota2.com/hero/ancientapparition"
+    },
+    {
+      "id": 4,
+      "name": "Anti-Mage",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Slashes his foes with mana-draining attacks",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.webm",
+      "source_link": "https://www.dota2.com/hero/anti-mage"
+    },
+    {
+      "id": 5,
+      "name": "Arc Warden",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Creates a copy of himself to split push",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/arc_warden.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/arc_warden.webm",
+      "source_link": "https://www.dota2.com/hero/arcwarden"
+    },
+    {
+      "id": 6,
+      "name": "Axe",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Taunts and forces enemies to attack him",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/axe.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/axe.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/axe.webm",
+      "source_link": "https://www.dota2.com/hero/axe"
+    },
+    {
+      "id": 7,
+      "name": "Bane",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Puts his enemies to sleep, incapacitating them",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bane.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bane.webm",
+      "source_link": "https://www.dota2.com/hero/bane"
+    },
+    {
+      "id": 8,
+      "name": "Batrider",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Can lasso an enemy away from his team",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/batrider.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/batrider.webm",
+      "source_link": "https://www.dota2.com/hero/batrider"
+    },
+    {
+      "id": 9,
+      "name": "Beastmaster",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Summons beasts to aid his hunt",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/beastmaster.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/beastmaster.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/beastmaster.webm",
+      "source_link": "https://www.dota2.com/hero/beastmaster"
+    },
+    {
+      "id": 10,
+      "name": "Bloodseeker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Chases down low health enemies with increased speed",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.webm",
+      "source_link": "https://www.dota2.com/hero/bloodseeker"
+    },
+    {
+      "id": 11,
+      "name": "Bounty Hunter",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Loots and collects bounties off of his enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bounty_hunter.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bounty_hunter.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bounty_hunter.webm",
+      "source_link": "https://www.dota2.com/hero/bountyhunter"
+    },
+    {
+      "id": 12,
+      "name": "Brewmaster",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Splits into three elemental spirits with unique abilities",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/brewmaster.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/brewmaster.webm",
+      "source_link": "https://www.dota2.com/hero/brewmaster"
+    },
+    {
+      "id": 13,
+      "name": "Bristleback",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Takes reduced damage when facing away from enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bristleback.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.webm",
+      "source_link": "https://www.dota2.com/hero/bristleback"
+    },
+    {
+      "id": 14,
+      "name": "Broodmother",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Hunts with her army of spiderlings",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/broodmother.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/broodmother.webm",
+      "source_link": "https://www.dota2.com/hero/broodmother"
+    },
+    {
+      "id": 15,
+      "name": "Centaur Warrunner",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Reflects damage back to his attackers",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/centaur.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/centaur.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/centaur.webm",
+      "source_link": "https://www.dota2.com/hero/centaurwarrunner"
+    },
+    {
+      "id": 16,
+      "name": "Chaos Knight",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Has strong but random damage output",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chaos_knight.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chaos_knight.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chaos_knight.webm",
+      "source_link": "https://www.dota2.com/hero/chaosknight"
+    },
+    {
+      "id": 17,
+      "name": "Chen",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Converts creeps to his cause, building an army",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chen.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chen.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chen.webm",
+      "source_link": "https://www.dota2.com/hero/chen"
+    },
+    {
+      "id": 18,
+      "name": "Clinkz",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Stalks invisibly to ambush lone enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/clinkz.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/clinkz.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/clinkz.webm",
+      "source_link": "https://www.dota2.com/hero/clinkz"
+    },
+    {
+      "id": 19,
+      "name": "Clockwerk",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Launches himself into enemies with his hookshot",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rattletrap.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rattletrap.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rattletrap.webm",
+      "source_link": "https://www.dota2.com/hero/clockwerk"
+    },
+    {
+      "id": 20,
+      "name": "Crystal Maiden",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Unleashes a high damage blizzard upon her foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crystal_maiden.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/crystal_maiden.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/crystal_maiden.webm",
+      "source_link": "https://www.dota2.com/hero/crystalmaiden"
+    },
+    {
+      "id": 21,
+      "name": "Dark Seer",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Pulls and manipulates his enemies' positions",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_seer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_seer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_seer.webm",
+      "source_link": "https://www.dota2.com/hero/darkseer"
+    },
+    {
+      "id": 22,
+      "name": "Dark Willow",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Has an arsenal of disables at her disposal",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_willow.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_willow.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_willow.webm",
+      "source_link": "https://www.dota2.com/hero/darkwillow"
+    },
+    {
+      "id": 23,
+      "name": "Dawnbreaker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Leaps to aid her allies, wherever they are on the map",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dawnbreaker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dawnbreaker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dawnbreaker.webm",
+      "source_link": "https://www.dota2.com/hero/dawnbreaker"
+    },
+    {
+      "id": 24,
+      "name": "Dazzle",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Powerful healer who can briefly prevent death",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dazzle.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dazzle.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dazzle.webm",
+      "source_link": "https://www.dota2.com/hero/dazzle"
+    },
+    {
+      "id": 25,
+      "name": "Death Prophet",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Summons an army of ghosts to attack",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/death_prophet.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/death_prophet.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/death_prophet.webm",
+      "source_link": "https://www.dota2.com/hero/deathprophet"
+    },
+    {
+      "id": 26,
+      "name": "Disruptor",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Traps and silences foes in his static storm",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/disruptor.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/disruptor.webm",
+      "source_link": "https://www.dota2.com/hero/disruptor"
+    },
+    {
+      "id": 27,
+      "name": "Doom",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Can prevent a single enemy from using abilties and items",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/doom_bringer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/doom_bringer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/doom_bringer.webm",
+      "source_link": "https://www.dota2.com/hero/doom"
+    },
+    {
+      "id": 28,
+      "name": "Dragon Knight",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Transforms into a formidable ranged dragon",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dragon_knight.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dragon_knight.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dragon_knight.webm",
+      "source_link": "https://www.dota2.com/hero/dragonknight"
+    },
+    {
+      "id": 29,
+      "name": "Drow Ranger",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Slows with her frost-tipped arrows",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/drow_ranger.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/drow_ranger.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/drow_ranger.webm",
+      "source_link": "https://www.dota2.com/hero/drowranger"
+    },
+    {
+      "id": 30,
+      "name": "Earth Spirit",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Disables and repositions his enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earth_spirit.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earth_spirit.webm",
+      "source_link": "https://www.dota2.com/hero/earthspirit"
+    },
+    {
+      "id": 31,
+      "name": "Earthshaker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Disrupts enemy team with his chain stuns",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earthshaker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earthshaker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earthshaker.webm",
+      "source_link": "https://www.dota2.com/hero/earthshaker"
+    },
+    {
+      "id": 32,
+      "name": "Elder Titan",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Damages and disables with his astral spirit",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/elder_titan.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/elder_titan.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/elder_titan.webm",
+      "source_link": "https://www.dota2.com/hero/eldertitan"
+    },
+    {
+      "id": 33,
+      "name": "Ember Spirit",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Rapidly strikes and chains his foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ember_spirit.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ember_spirit.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ember_spirit.webm",
+      "source_link": "https://www.dota2.com/hero/emberspirit"
+    },
+    {
+      "id": 34,
+      "name": "Enchantress",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Enchants neutral creeps to do her bidding",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enchantress.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enchantress.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enchantress.webm",
+      "source_link": "https://www.dota2.com/hero/enchantress"
+    },
+    {
+      "id": 35,
+      "name": "Enigma",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Traps and damages enemies in a black hole",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.webm",
+      "source_link": "https://www.dota2.com/hero/enigma"
+    },
+    {
+      "id": 36,
+      "name": "Faceless Void",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Can freeze his enemies in time",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/faceless_void.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/faceless_void.webm",
+      "source_link": "https://www.dota2.com/hero/facelessvoid"
+    },
+    {
+      "id": 37,
+      "name": "Grimstroke",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Disables enemies with a swipe of his brush",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/grimstroke.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm",
+      "source_link": "https://www.dota2.com/hero/grimstroke"
+    },
+    {
+      "id": 38,
+      "name": "Gyrocopter",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Barrages with his cannon and homing missiles",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/gyrocopter.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/gyrocopter.webm",
+      "source_link": "https://www.dota2.com/hero/gyrocopter"
+    },
+    {
+      "id": 39,
+      "name": "Hoodwink",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Shackles her enemies to trees",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/hoodwink.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/hoodwink.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/hoodwink.webm",
+      "source_link": "https://www.dota2.com/hero/hoodwink"
+    },
+    {
+      "id": 40,
+      "name": "Huskar",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Sacrifices his health to deal more damage",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/huskar.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/huskar.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/huskar.webm",
+      "source_link": "https://www.dota2.com/hero/huskar"
+    },
+    {
+      "id": 41,
+      "name": "Invoker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Weaves magic with an array of spell combos",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/invoker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/invoker.webm",
+      "source_link": "https://www.dota2.com/hero/invoker"
+    },
+    {
+      "id": 42,
+      "name": "Io",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Links to its allies to buff them",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/wisp.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/wisp.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/wisp.webm",
+      "source_link": "https://www.dota2.com/hero/io"
+    },
+    {
+      "id": 43,
+      "name": "Jakiro",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Freezes and burns enemies with magic",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/jakiro.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/jakiro.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/jakiro.webm",
+      "source_link": "https://www.dota2.com/hero/jakiro"
+    },
+    {
+      "id": 44,
+      "name": "Juggernaut",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Slices through his enemies with precise strikes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/juggernaut.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/juggernaut.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/juggernaut.webm",
+      "source_link": "https://www.dota2.com/hero/juggernaut"
+    },
+    {
+      "id": 45,
+      "name": "Keeper of the Light",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Provides instant mana to allies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/keeper_of_the_light.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/keeper_of_the_light.webm",
+      "source_link": "https://www.dota2.com/hero/keeperofthelight"
+    },
+    {
+      "id": 46,
+      "name": "Kunkka",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Disrupts enemy positioning and disables them",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kunkka.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/kunkka.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/kunkka.webm",
+      "source_link": "https://www.dota2.com/hero/kunkka"
+    },
+    {
+      "id": 47,
+      "name": "Legion Commander",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Increases power with each duel victory",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/legion_commander.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/legion_commander.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/legion_commander.webm",
+      "source_link": "https://www.dota2.com/hero/legioncommander"
+    },
+    {
+      "id": 48,
+      "name": "Leshrac",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Can deal heavy damage in an aura around himself",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/leshrac.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/leshrac.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/leshrac.webm",
+      "source_link": "https://www.dota2.com/hero/leshrac"
+    },
+    {
+      "id": 49,
+      "name": "Lich",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Unleashes a powerful attack that bounces between enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lich.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lich.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lich.webm",
+      "source_link": "https://www.dota2.com/hero/lich"
+    },
+    {
+      "id": 50,
+      "name": "Lifestealer",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Infests other units for mobility and strength",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/life_stealer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/life_stealer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/life_stealer.webm",
+      "source_link": "https://www.dota2.com/hero/lifestealer"
+    },
+    {
+      "id": 51,
+      "name": "Lina",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Increases attack and speed with every spell",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lina.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lina.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lina.webm",
+      "source_link": "https://www.dota2.com/hero/lina"
+    },
+    {
+      "id": 52,
+      "name": "Lion",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Steals enemy mana to fuel his own abilities",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lion.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lion.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lion.webm",
+      "source_link": "https://www.dota2.com/hero/lion"
+    },
+    {
+      "id": 53,
+      "name": "Lone Druid",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Commands a powerful spirit bear in battle",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lone_druid.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lone_druid.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lone_druid.webm",
+      "source_link": "https://www.dota2.com/hero/lonedruid"
+    },
+    {
+      "id": 54,
+      "name": "Luna",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Tears into her enemies with bouncing attacks",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/luna.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/luna.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/luna.webm",
+      "source_link": "https://www.dota2.com/hero/luna"
+    },
+    {
+      "id": 55,
+      "name": "Lycan",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Shapeshifts into a ferocious beast",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lycan.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lycan.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lycan.webm",
+      "source_link": "https://www.dota2.com/hero/lycan"
+    },
+    {
+      "id": 56,
+      "name": "Magnus",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Charges in to reposition his enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/magnataur.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/magnataur.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/magnataur.webm",
+      "source_link": "https://www.dota2.com/hero/magnus"
+    },
+    {
+      "id": 57,
+      "name": "Marci",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Dashes around pummeling enemies with rapid attacks.",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/marci.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/marci.webm",
+      "source_link": "https://www.dota2.com/hero/marci"
+    },
+    {
+      "id": 58,
+      "name": "Mars",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Traps his foes in an inescapable arena",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mars.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mars.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mars.webm",
+      "source_link": "https://www.dota2.com/hero/mars"
+    },
+    {
+      "id": 59,
+      "name": "Medusa",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Immobilizes her enemies with her stone gaze",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/medusa.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/medusa.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/medusa.webm",
+      "source_link": "https://www.dota2.com/hero/medusa"
+    },
+    {
+      "id": 60,
+      "name": "Meepo",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Five are stronger than one",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/meepo.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/meepo.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/meepo.webm",
+      "source_link": "https://www.dota2.com/hero/meepo"
+    },
+    {
+      "id": 61,
+      "name": "Mirana",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Stuns enemies with precise arrows from afar",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mirana.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mirana.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mirana.webm",
+      "source_link": "https://www.dota2.com/hero/mirana"
+    },
+    {
+      "id": 62,
+      "name": "Monkey King",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Springs from the cover of the tree tops",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/monkey_king.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/monkey_king.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/monkey_king.webm",
+      "source_link": "https://www.dota2.com/hero/monkeyking"
+    },
+    {
+      "id": 63,
+      "name": "Morphling",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Rides the waves to flank enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/morphling.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/morphling.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/morphling.webm",
+      "source_link": "https://www.dota2.com/hero/morphling"
+    },
+    {
+      "id": 64,
+      "name": "Naga Siren",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Able to capitivate and disable enemies with her song",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/naga_siren.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/naga_siren.webm",
+      "source_link": "https://www.dota2.com/hero/nagasiren"
+    },
+    {
+      "id": 65,
+      "name": "Nature's Prophet",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Able to teleport to any location on the map at will",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/furion.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/furion.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/furion.webm",
+      "source_link": "https://www.dota2.com/hero/nature'sprophet"
+    },
+    {
+      "id": 66,
+      "name": "Necrophos",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Damages enemies and heals allies simultaneously",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/necrolyte.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/necrolyte.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/necrolyte.webm",
+      "source_link": "https://www.dota2.com/hero/necrophos"
+    },
+    {
+      "id": 67,
+      "name": "Night Stalker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Enpowered by the shadows of nightfall",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/night_stalker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/night_stalker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/night_stalker.webm",
+      "source_link": "https://www.dota2.com/hero/nightstalker"
+    },
+    {
+      "id": 68,
+      "name": "Nyx Assassin",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Reflects enemy damage and stuns",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nyx_assassin.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nyx_assassin.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nyx_assassin.webm",
+      "source_link": "https://www.dota2.com/hero/nyxassassin"
+    },
+    {
+      "id": 69,
+      "name": "Ogre Magi",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Uses a touch of luck to amplify his skills",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ogre_magi.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ogre_magi.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ogre_magi.webm",
+      "source_link": "https://www.dota2.com/hero/ogremagi"
+    },
+    {
+      "id": 70,
+      "name": "Omniknight",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Tanky frontliner who protects and heals his allies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/omniknight.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/omniknight.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/omniknight.webm",
+      "source_link": "https://www.dota2.com/hero/omniknight"
+    },
+    {
+      "id": 71,
+      "name": "Oracle",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Alters the fates of heroes with his buffs and nukes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/oracle.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/oracle.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/oracle.webm",
+      "source_link": "https://www.dota2.com/hero/oracle"
+    },
+    {
+      "id": 72,
+      "name": "Outworld Destroyer",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Can imprison a hero, making them invulnerable",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/obsidian_destroyer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/obsidian_destroyer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/obsidian_destroyer.webm",
+      "source_link": "https://www.dota2.com/hero/outworlddestroyer"
+    },
+    {
+      "id": 73,
+      "name": "Pangolier",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Dashes and rolls in to disrupt enemy movements",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pangolier.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pangolier.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pangolier.webm",
+      "source_link": "https://www.dota2.com/hero/pangolier"
+    },
+    {
+      "id": 74,
+      "name": "Phantom Assassin",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Blinks onto her foes with critical strikes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_assassin.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_assassin.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_assassin.webm",
+      "source_link": "https://www.dota2.com/hero/phantomassassin"
+    },
+    {
+      "id": 75,
+      "name": "Phantom Lancer",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Creates illusions of himself to trick or attack foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_lancer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_lancer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_lancer.webm",
+      "source_link": "https://www.dota2.com/hero/phantomlancer"
+    },
+    {
+      "id": 76,
+      "name": "Phoenix",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Heals and damages at the sacrifice of its own health",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phoenix.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phoenix.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phoenix.webm",
+      "source_link": "https://www.dota2.com/hero/phoenix"
+    },
+    {
+      "id": 77,
+      "name": "Primal Beast",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Stomps over everything and smashes enemies into messy bits.",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/primal_beast.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/primal_beast.webm",
+      "source_link": "https://www.dota2.com/hero/primalbeast"
+    },
+    {
+      "id": 78,
+      "name": "Puck",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Orbs to enemies and silences them",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/puck.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/puck.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/puck.webm",
+      "source_link": "https://www.dota2.com/hero/puck"
+    },
+    {
+      "id": 79,
+      "name": "Pudge",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Hooks and pulls enemies towards him",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pudge.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pudge.webm",
+      "source_link": "https://www.dota2.com/hero/pudge"
+    },
+    {
+      "id": 80,
+      "name": "Pugna",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Drains enemy life to heal himself",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pugna.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pugna.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pugna.webm",
+      "source_link": "https://www.dota2.com/hero/pugna"
+    },
+    {
+      "id": 81,
+      "name": "Queen of Pain",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Blinks in to deal massive magical damage",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/queenofpain.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/queenofpain.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/queenofpain.webm",
+      "source_link": "https://www.dota2.com/hero/queenofpain"
+    },
+    {
+      "id": 82,
+      "name": "Razor",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Steals enemy damage to add to his own",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/razor.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/razor.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/razor.webm",
+      "source_link": "https://www.dota2.com/hero/razor"
+    },
+    {
+      "id": 83,
+      "name": "Riki",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Remains permanently invisible until the moment to strike",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/riki.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/riki.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/riki.webm",
+      "source_link": "https://www.dota2.com/hero/riki"
+    },
+    {
+      "id": 84,
+      "name": "Rubick",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Steals the spells of his enemies to use against them",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rubick.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rubick.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rubick.webm",
+      "source_link": "https://www.dota2.com/hero/rubick"
+    },
+    {
+      "id": 85,
+      "name": "Sand King",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Burrows to stun and slow enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sand_king.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sand_king.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sand_king.webm",
+      "source_link": "https://www.dota2.com/hero/sandking"
+    },
+    {
+      "id": 86,
+      "name": "Shadow Demon",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Stacks exponential poison damage against his foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_demon.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.webm",
+      "source_link": "https://www.dota2.com/hero/shadowdemon"
+    },
+    {
+      "id": 87,
+      "name": "Shadow Fiend",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Unleashes the souls of fallen enemies for damage",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nevermore.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nevermore.webm",
+      "source_link": "https://www.dota2.com/hero/shadowfiend"
+    },
+    {
+      "id": 88,
+      "name": "Shadow Shaman",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Summons powerful serpent wards to deal damage",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_shaman.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_shaman.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_shaman.webm",
+      "source_link": "https://www.dota2.com/hero/shadowshaman"
+    },
+    {
+      "id": 89,
+      "name": "Silencer",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Can silence all enemies on the map",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/silencer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/silencer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/silencer.webm",
+      "source_link": "https://www.dota2.com/hero/silencer"
+    },
+    {
+      "id": 90,
+      "name": "Skywrath Mage",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Casts high damage magical spells on a single target",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/skywrath_mage.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skywrath_mage.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skywrath_mage.webm",
+      "source_link": "https://www.dota2.com/hero/skywrathmage"
+    },
+    {
+      "id": 91,
+      "name": "Slardar",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Chases down his enemies to weaken and bash them",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slardar.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slardar.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slardar.webm",
+      "source_link": "https://www.dota2.com/hero/slardar"
+    },
+    {
+      "id": 92,
+      "name": "Slark",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Slips in and out of skirmishes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slark.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slark.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slark.webm",
+      "source_link": "https://www.dota2.com/hero/slark"
+    },
+    {
+      "id": 93,
+      "name": "Snapfire",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Mows down her enemies with heavy artillery and trusty lizard",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/snapfire.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/snapfire.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/snapfire.webm",
+      "source_link": "https://www.dota2.com/hero/snapfire"
+    },
+    {
+      "id": 94,
+      "name": "Sniper",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Picks off his enemies from afar",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sniper.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sniper.webm",
+      "source_link": "https://www.dota2.com/hero/sniper"
+    },
+    {
+      "id": 95,
+      "name": "Spectre",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Haunts her enemies and teleports to her target",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spectre.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.webm",
+      "source_link": "https://www.dota2.com/hero/spectre"
+    },
+    {
+      "id": 96,
+      "name": "Spirit Breaker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Charges down enemies from anywhere on the map",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spirit_breaker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spirit_breaker.webm",
+      "source_link": "https://www.dota2.com/hero/spiritbreaker"
+    },
+    {
+      "id": 97,
+      "name": "Storm Spirit",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Zips across the map to engage in fights",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/storm_spirit.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/storm_spirit.webm",
+      "source_link": "https://www.dota2.com/hero/stormspirit"
+    },
+    {
+      "id": 98,
+      "name": "Sven",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Cleaves down enemies with his incredible strength",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sven.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sven.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sven.webm",
+      "source_link": "https://www.dota2.com/hero/sven"
+    },
+    {
+      "id": 99,
+      "name": "Techies",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Surprises enemies with invisible landmines and explosive attacks",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/techies.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/techies.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/techies.webm",
+      "source_link": "https://www.dota2.com/hero/techies"
+    },
+    {
+      "id": 100,
+      "name": "Templar Assassin",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Slows down enemies with traps",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/templar_assassin.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/templar_assassin.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/templar_assassin.webm",
+      "source_link": "https://www.dota2.com/hero/templarassassin"
+    },
+    {
+      "id": 101,
+      "name": "Terrorblade",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Transforms into a powerful ranged demon",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/terrorblade.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/terrorblade.webm",
+      "source_link": "https://www.dota2.com/hero/terrorblade"
+    },
+    {
+      "id": 102,
+      "name": "Tidehunter",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Durable hero who shrugs off enemy damage",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tidehunter.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tidehunter.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tidehunter.webm",
+      "source_link": "https://www.dota2.com/hero/tidehunter"
+    },
+    {
+      "id": 103,
+      "name": "Timbersaw",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Chops through the forest to face his foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shredder.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shredder.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shredder.webm",
+      "source_link": "https://www.dota2.com/hero/timbersaw"
+    },
+    {
+      "id": 104,
+      "name": "Tinker",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Demolishes his enemies with swarms of machines",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tinker.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.webm",
+      "source_link": "https://www.dota2.com/hero/tinker"
+    },
+    {
+      "id": 105,
+      "name": "Tiny",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Grows in size and strength as battle ensues",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tiny.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tiny.webm",
+      "source_link": "https://www.dota2.com/hero/tiny"
+    },
+    {
+      "id": 106,
+      "name": "Treant Protector",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Calls upon the forest to root his foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/treant.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/treant.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/treant.webm",
+      "source_link": "https://www.dota2.com/hero/treantprotector"
+    },
+    {
+      "id": 107,
+      "name": "Troll Warlord",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Swaps between ranged and melee attacks at will",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/troll_warlord.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/troll_warlord.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/troll_warlord.webm",
+      "source_link": "https://www.dota2.com/hero/trollwarlord"
+    },
+    {
+      "id": 108,
+      "name": "Tusk",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Snowballs into his enemies to stun",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tusk.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tusk.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tusk.webm",
+      "source_link": "https://www.dota2.com/hero/tusk"
+    },
+    {
+      "id": 109,
+      "name": "Underlord",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Teleports his team in and out of battle",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abyssal_underlord.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abyssal_underlord.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abyssal_underlord.webm",
+      "source_link": "https://www.dota2.com/hero/underlord"
+    },
+    {
+      "id": 110,
+      "name": "Undying",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Summons hordes of zombies to attack his foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/undying.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/undying.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/undying.webm",
+      "source_link": "https://www.dota2.com/hero/undying"
+    },
+    {
+      "id": 111,
+      "name": "Ursa",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Deals more damage with every hit to the same foe",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ursa.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.webm",
+      "source_link": "https://www.dota2.com/hero/ursa"
+    },
+    {
+      "id": 112,
+      "name": "Vengeful Spirit",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Can swap herself with any nearby hero",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/vengefulspirit.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/vengefulspirit.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/vengefulspirit.webm",
+      "source_link": "https://www.dota2.com/hero/vengefulspirit"
+    },
+    {
+      "id": 113,
+      "name": "Venomancer",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Deals damage over time with venomous attacks",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/venomancer.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/venomancer.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/venomancer.webm",
+      "source_link": "https://www.dota2.com/hero/venomancer"
+    },
+    {
+      "id": 114,
+      "name": "Viper",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Poisonous toxins chip away armor and slow enemies",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/viper.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/viper.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/viper.webm",
+      "source_link": "https://www.dota2.com/hero/viper"
+    },
+    {
+      "id": 115,
+      "name": "Visage",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Scouts and attacks with his familiars",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/visage.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/visage.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/visage.webm",
+      "source_link": "https://www.dota2.com/hero/visage"
+    },
+    {
+      "id": 116,
+      "name": "Void Spirit",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Steps in and out of the mortal plane to strike his foes",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/void_spirit.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/void_spirit.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/void_spirit.webm",
+      "source_link": "https://www.dota2.com/hero/voidspirit"
+    },
+    {
+      "id": 117,
+      "name": "Warlock",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Summons powerful demons to fight at his side",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/warlock.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/warlock.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/warlock.webm",
+      "source_link": "https://www.dota2.com/hero/warlock"
+    },
+    {
+      "id": 118,
+      "name": "Weaver",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png",
+        "name": "Agility"
+      },
+      "hero_one_liner": "Rewinds time to reverse damage and position",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/weaver.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/weaver.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/weaver.webm",
+      "source_link": "https://www.dota2.com/hero/weaver"
+    },
+    {
+      "id": 119,
+      "name": "Windranger",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Fires swift flurry of arrows at a single target",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/windrunner.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.webm",
+      "source_link": "https://www.dota2.com/hero/windranger"
+    },
+    {
+      "id": 120,
+      "name": "Winter Wyvern",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Able to force her enemies to attack their own ally",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/winter_wyvern.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/winter_wyvern.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/winter_wyvern.webm",
+      "source_link": "https://www.dota2.com/hero/winterwyvern"
+    },
+    {
+      "id": 121,
+      "name": "Witch Doctor",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Channels a high damage death ward",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/witch_doctor.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/witch_doctor.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/witch_doctor.webm",
+      "source_link": "https://www.dota2.com/hero/witchdoctor"
+    },
+    {
+      "id": 122,
+      "name": "Wraith King",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png",
+        "name": "Strength"
+      },
+      "hero_one_liner": "Can reincarnate instantly upon death",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/skeleton_king.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skeleton_king.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skeleton_king.webm",
+      "source_link": "https://www.dota2.com/hero/wraithking"
+    },
+    {
+      "id": 123,
+      "name": "Zeus",
+      "primary_stat": {
+        "icon": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png",
+        "name": "Intelligence"
+      },
+      "hero_one_liner": "Strikes enemies near and far with lightning",
+      "small_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/zuus.png",
+      "big_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/zuus.png",
+      "video_thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/zuus.webm",
+      "source_link": "https://www.dota2.com/hero/zeus"
+    }
+  ]
+}

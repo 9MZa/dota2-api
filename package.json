@@ -1,0 +1,34 @@
+{
+  "name": "next-dota2-heroes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "fetch": "node lib/fetch.js  "
+  },
+  "dependencies": {
+    "@mantine/core": "^4.2.12",
+    "@mantine/hooks": "^4.2.12",
+    "@mantine/next": "^4.2.12",
+    "@tanstack/react-query": "^4.0.3",
+    "axios": "^0.27.2",
+    "cookies-next": "^2.1.1",
+    "mongodb": "^4.7.0",
+    "next": "12.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-intersection-observer": "^9.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "18.0.3",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2",
+    "puppeteer": "^15.4.0",
+    "typescript": "4.7.4"
+  }
+}
