@@ -1,7 +1,10 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import db from "../../db.json";
 
-export default async (req: NextApiRequest, res: NextApiResponse) => {
+export default async function handler(
+  req: NextApiRequest,
+  res: NextApiResponse
+) {
   let pageOffset = Number(req.query.pageOffset);
   let pageSize = Number(req.query.pageSize);
 
@@ -18,4 +21,4 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   } else {
     return res.json(db);
   }
-};
+}

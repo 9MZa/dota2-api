@@ -1,10 +1,8 @@
 import type { AppProps } from "next/app";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-
 import { GetServerSidePropsContext } from "next";
 import { useState } from "react";
 import { getCookie, setCookies } from "cookies-next";
-import Head from "next/head";
 import {
   MantineProvider,
   ColorScheme,
@@ -12,14 +10,6 @@ import {
 } from "@mantine/core";
 
 const queryClient = new QueryClient();
-
-// function MyApp({ Component, pageProps }: AppProps) {
-//   return (
-//     <QueryClientProvider client={queryClient}>
-//       <Component {...pageProps} />
-//     </QueryClientProvider>
-//   );
-// }
 
 export default function App(props: AppProps & { colorScheme: ColorScheme }) {
   const { Component, pageProps } = props;
