@@ -13,20 +13,20 @@
     "@mantine/core": "^4.2.12",
     "@mantine/hooks": "^4.2.12",
     "@mantine/next": "^4.2.12",
-    "@tanstack/react-query": "^4.0.3",
+    "@tanstack/react-query": "^4.0.5",
     "axios": "^0.27.2",
     "cookies-next": "^2.1.1",
-    "mongodb": "^4.7.0",
     "next": "12.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-intersection-observer": "^9.3.5"
+    "react-intersection-observer": "^9.3.5",
+    "react-query": "4.0.0"
   },
   "devDependencies": {
     "@types/node": "18.0.3",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",
-    "eslint": "8.19.0",
+    "eslint": "^8.20.0",
     "eslint-config-next": "12.2.2",
     "puppeteer": "^15.4.0",
     "typescript": "4.7.4"
