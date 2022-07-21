@@ -7,7 +7,14 @@ import {
   MantineProvider,
   ColorScheme,
   ColorSchemeProvider,
+  Global,
 } from "@mantine/core";
+
+const reaverBold = `https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff`;
+const reaverSemiBold = `https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff`;
+
+const radiance = `https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.woff`;
+const radianceSemiBold = `https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.woff`;
 
 const queryClient = new QueryClient();
 
@@ -33,8 +40,42 @@ export default function App(props: AppProps & { colorScheme: ColorScheme }) {
           colorScheme={colorScheme}
           toggleColorScheme={toggleColorScheme}
         >
+          <Global
+            styles={[
+              {
+                "@font-face": {
+                  fontFamily: "Reaver Bold",
+                  src: `url(${reaverBold}) format("woff")`,
+                },
+              },
+              {
+                "@font-face": {
+                  fontFamily: "Reaver Semi Bold",
+                  src: `url(${reaverSemiBold}) format("woff")`,
+                },
+              },
+              {
+                "@font-face": {
+                  fontFamily: "Radiance",
+                  src: `url(${radiance}) format("woff")`,
+                },
+              },
+              {
+                "@font-face": {
+                  fontFamily: "Radiance Semi Bold",
+                  src: `url(${radianceSemiBold}) format("woff")`,
+                },
+              },
+            ]}
+          />
           <MantineProvider
-            theme={{ colorScheme }}
+            theme={{
+              colorScheme,
+              fontFamily: "Radiance",
+              headings: { fontFamily: "Reaver Bold" },
+
+              primaryColor: "orange",
+            }}
             withGlobalStyles
             withNormalizeCSS
           >

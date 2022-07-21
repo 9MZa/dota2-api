@@ -1,23 +1,21 @@
 import React from "react";
+import { Title, Text, Stack, Space } from "@mantine/core";
 
-import { Image, Title } from "@mantine/core";
-
-export interface Hero {
-  id?: Number;
-  name: String;
-  hero_one_liner?: String;
-  small_thumbnail?: String;
-  video_thumbnail?: String;
-}
-
-const HeroList = ({ name, small_thumbnail }: Hero) => {
-  let newUrl = small_thumbnail?.toString();
+const Hero = () => {
   return (
-    <>
-      <Image radius="xs" src={newUrl} alt="my" width={256} height={144} />
-      <Title order={3}>{name}</Title>
-    </>
+    <Stack>
+      <Space h={80} />
+      <Title>DOTA 2 API</Title>
+      <Text
+        sx={(theme) => ({
+          fontSize: theme.fontSizes.xl,
+        })}
+      >
+        Example get heroes data from DOTA 2
+      </Text>
+      <Space h={`xl`} />
+    </Stack>
   );
 };
 
-export default HeroList;
+export default Hero;
