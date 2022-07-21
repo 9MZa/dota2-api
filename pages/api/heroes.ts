@@ -1,10 +1,13 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import db from "../../db.json";
+import middleCors from "../../middleware/cors";
+import { cors } from "../../middleware/cors";
 
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
+  await middleCors(req, res, cors);
   let pageOffset = Number(req.query.pageOffset);
   let pageSize = Number(req.query.pageSize);
 
