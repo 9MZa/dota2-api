@@ -5,7 +5,7 @@ import { Prism } from "@mantine/prism";
 const url = `https://dota2-game-api.vercel.app/api/heroes?pageOffset=0&pageSize=1`;
 
 const exampleFetch = `
-fetch(${url})
+fetch('${url}')
 .then(response => response.json())
 .then(json => console.log(json))
 `;
