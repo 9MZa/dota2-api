@@ -1,6 +1,7 @@
 import React from "react";
-import { Container, createStyles, Box } from "@mantine/core";
+import { Container, Box } from "@mantine/core";
 import Navbar from "./Navbar";
+import Head from "next/head";
 type LayoutProps = {
   children: React.ReactNode;
 };
@@ -10,6 +11,10 @@ type LayoutProps = {
 const Layout = ({ children }: LayoutProps) => {
   return (
     <Box>
+      <Head>
+        <title>DOTA 2 API</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <Container size={`lg`}>
         <Navbar />
       </Container>
